@@ -1,13 +1,13 @@
 # Planning
 
 ## Recomendation
+- The materials used may be changed due to safety issues (Electrical injury, fire)
 - The Cabinet should only be touched after turned off.
 - The object shoud me removed only after several minutes the cover is removed to avoid any toxic gas.
 - The cabined should be used in a ventilated environment.
 
 ## Observation
 - The UV light can produce ozone, allowing a two sterilization types of  at the same time.
-- The materials used may be changed due to safety issues (Electrical injury, fire)
 
 ## Limitations
 - The use of UV light is not adequate for rough or multi layer objects.
