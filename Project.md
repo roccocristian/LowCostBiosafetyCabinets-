@@ -27,4 +27,11 @@
 - Material used for UV reflection: Aluminiun paper, reflection expected 50 %
 - Material used for the box: styrofoam and cardboard.
 
+## Use
+1 - The cabin should be use closed, with both lights turned on.
+2 - The object to be sterilized should be rotated to allow direct light incidence
+3 - The object, in this case PPE masks, should be exposed for around 30 minutes each side.
+4 - After that time the cabin should be let with the object allowing the removal of any toxic gas (need further research of residual produced)
+5 - After that time the mask can be used again (it is recomended to be used only 3 times according to the pappers)
+
 I do not take any responsibility and I am not liable for any damage caused through use of this project
