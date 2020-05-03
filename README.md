@@ -55,5 +55,5 @@ IMPORTANT: I do not take any responsibility and I am not liable for any damage c
 ## Papers
 The main papers used as references can be found at DOI:
 
-10.1101/2020.03.25.20043489
-10.1038/s41598-018-21058-w
+- 10.1101/2020.03.25.20043489
+- 10.1038/s41598-018-21058-w
