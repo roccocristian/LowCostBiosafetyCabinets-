@@ -16,3 +16,6 @@
 - Voltage: 127 V
 - Brand: OSRAM
 - Model: HNS S 7 W G23 (this lamp should not produce ozone, although it was smelled something simillar to that. It requires further investigation)
+- Light Lenght: 254 nm
+- Power from 200nm to 280nm: 1.8 W
+- Material used for UV reflection: Aluminiun paper, reflection expected 50 %
