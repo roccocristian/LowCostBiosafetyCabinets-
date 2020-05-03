@@ -35,3 +35,6 @@
 5 - After that time the mask can be used again (it is recomended to be used only 3 times according to the pappers)
 
 I do not take any responsibility and I am not liable for any damage caused through use of this project
+
+## Images
+![alt text](https://github.com/roccocristian/LowCostBiosafetyCabinets-/blob/master/image1.jpeg "Logo Title Text 1")
