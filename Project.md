@@ -38,6 +38,6 @@ I do not take any responsibility and I am not liable for any damage caused throu
 
 ## Images
 <img src="https://github.com/roccocristian/LowCostBiosafetyCabinets-/blob/master/image1.jpeg" width="300" height="300">
-<img src="https://github.com/roccocristian/LowCostBiosafetyCabinets-/blob/master/image2.jpeg" width="300" height="300">
+<img src="https://github.com/roccocristian/LowCostBiosafetyCabinets-/blob/master/image2.jpeg" width="300" height="200">
 <img src="https://github.com/roccocristian/LowCostBiosafetyCabinets-/blob/master/image3.jpeg" width="300" height="300">
 
