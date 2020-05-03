@@ -37,4 +37,4 @@
 I do not take any responsibility and I am not liable for any damage caused through use of this project
 
 ## Images
-![alt text](https://github.com/roccocristian/LowCostBiosafetyCabinets-/blob/master/image1.jpeg "Logo Title Text 1")
+![alt text](https://github.com/roccocristian/LowCostBiosafetyCabinets-/blob/master/image1.jpeg "Image 1"){:height="50%" width="50%"}
