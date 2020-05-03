@@ -50,3 +50,10 @@ IMPORTANT: I do not take any responsibility and I am not liable for any damage c
 <img src="https://github.com/roccocristian/LowCostBiosafetyCabinets-/blob/master/image2.jpeg" width="300" height="200">
 <img src="https://github.com/roccocristian/LowCostBiosafetyCabinets-/blob/master/image3.jpeg" width="300" height="300">
 
+# Reference
+
+## Papers
+The main papers used as references can be found at DOI:
+
+10.1101/2020.03.25.20043489
+10.1038/s41598-018-21058-w
