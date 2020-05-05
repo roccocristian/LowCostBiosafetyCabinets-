@@ -11,6 +11,7 @@ I am stil thinking in the licence to be used. If you have any interest in the pr
 IMPORTANT: I do not take any responsibility and I am not liable for any damage caused through use of this project
 
 ## Recomendation
+- Do not exposure your skin to the UV light generated through the lamps.
 - The materials used may be changed due to safety issues (Electrical injury, fire)
 - The Cabinet should only be touched after turned off.
 - The object shoud me removed only after several minutes the cover is removed to avoid any toxic gas.
